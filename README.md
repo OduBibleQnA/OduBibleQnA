@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, we’re ODU Bible Q&A
 
-<!--
-**OduBibleQnA/OduBibleQnA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to our GitHub profile!  
+We run **Bible Q&A**, a space where people can explore questions about Scripture together.  
 
-Here are some ideas to get you started:
+📖 Check out our website here:  
+👉 [odubibleqna.github.io](https://odubibleqna.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 What is Bible Q&A About?
+
+We do a Bible study where we go through topics from questions that are asked about the Bible.  
+
+- Questions are asked by people through our official [Discord Server](https://odubibleqna.github.io/discord.html).  
+- The questions will be approved by leader(s) and then asked within the meetings.
+- Open to anyone and everyone.
+
+---
+
+## ❓ Why
+
+It is to answer questions people may have about the Bible that might need explaining or are a bit confusing.  
+
+---
+
+## 🎯 Ultimate Goal
+
+- Get people closer to God  
+- Answer the question, or at least make sense of it  
+
+---
+
+## 🔗 Connect with us
+- Instagram: [@offficial3peasinapod](https://instagram.com/official3peasinapod)  
+- YouTube: [3 Peas in a Pod on YouTube](https://youtube.com/@3PeasinaPodOfficial)  
+- Twitch: [Live Q&A Sessions](https://twitch.tv/bibleqna)
+
+---
+
+✨ Thanks for visiting our profile! Stay tuned for resources and projects.
