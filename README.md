@@ -12,8 +12,8 @@ We run **Bible Q&A**, a space where people can explore questions about Scripture
 
 We do a Bible study where we go through topics from questions that are asked about the Bible.  
 
-- Questions are asked by people through our official [Discord Server](https://odubibleqna.github.io/discord.html).  
-- The questions will be approved by leader(s) and then asked within the meetings.
+- Questions are submitted by people through our official [Discord Server](https://odubibleqna.github.io/discord.html).  
+- The questions are approved by leader(s) and then asked within the meetings.  
 - Open to anyone and everyone.
 
 ---
@@ -32,9 +32,9 @@ It is to answer questions people may have about the Bible that might need explai
 ---
 
 ## 🔗 Connect with us
-- YouTube: [3 Peas in a Pod on YouTube](https://youtube.com/@3PeasinaPodOfficial)  
-- Twitch: [Live Q&A Sessions](https://twitch.tv/bibleqna)
-- Instagram: [@offficial3peasinapod](https://instagram.com/official3peasinapod)  
+- **YouTube**: [3 Peas in a Pod](https://youtube.com/@3PeasinaPodOfficial) – Watch our livestreams and keep up with updates  
+- **Twitch**: [Live Q&A Sessions](https://twitch.tv/bibleqna) – Join our livestreams if you can't attend in person  
+- **Instagram**: [@official3peasinapod](https://instagram.com/official3peasinapod) – Follow us for updates and news
 
 ---
 
