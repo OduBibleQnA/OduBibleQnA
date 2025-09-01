@@ -32,9 +32,9 @@ It is to answer questions people may have about the Bible that might need explai
 ---
 
 ## 🔗 Connect with us
-- Instagram: [@offficial3peasinapod](https://instagram.com/official3peasinapod)  
 - YouTube: [3 Peas in a Pod on YouTube](https://youtube.com/@3PeasinaPodOfficial)  
 - Twitch: [Live Q&A Sessions](https://twitch.tv/bibleqna)
+- Instagram: [@offficial3peasinapod](https://instagram.com/official3peasinapod)  
 
 ---
 
